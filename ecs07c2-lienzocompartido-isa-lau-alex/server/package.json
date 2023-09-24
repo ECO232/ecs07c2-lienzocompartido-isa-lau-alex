@@ -1,7 +1,6 @@
 {
   "name": "ecs07c2-lienzocompartido-isa-lau-alex",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -23,5 +22,6 @@
     "nodemon": "^3.0.1",
     "p5": "^1.7.0",
     "socket.io": "^4.7.2"
-  }
+  },
+  "description": ""
 }
